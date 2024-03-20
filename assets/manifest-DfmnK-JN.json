@@ -2,7 +2,7 @@
     "theme_color": "#29D8DB",
     "background_color": "#F6F9F9",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/SMC/",
     "start_url": "/",
     "name": "Al Safwa Medical Center",
     "short_name": "SMC",
